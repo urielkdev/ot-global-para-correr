@@ -1,0 +1,586 @@
+[ 2023-08-18 21:31:27,966 ] Using spritesheet cache size of 910
+[ 2023-08-18 21:31:32,726 ] Asset loading complete
+[ 2023-08-18 21:31:42,087 ] News query failed: "Unrecognized event news."
+[ 2023-08-18 21:31:43,506 ] BattlEye: "Initialized (v1.249)"
+[ 2023-08-18 21:31:43,506 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-08-18 21:31:43,506 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-08-18 21:31:43,506 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-08-18 21:31:43,506 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-08-18 21:31:43,572 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-18 21:31:43,580 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-18 21:31:43,591 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-18 21:31:44,588 ] News query failed: "Unrecognized event news."
+[ 2023-08-18 21:33:08,937 ] News query failed: "Unrecognized event news."
+[ 2023-08-18 21:33:09,704 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-18 21:33:09,770 ] Disconnected from gameserver
+[ 2023-08-18 21:33:10,107 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testerman" )
+[ 2023-08-18 21:33:10,109 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-18 21:33:10,121 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-18 21:33:11,071 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-18 21:34:18,838 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342239161 found"
+[ 2023-08-18 21:34:23,204 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342239127 found"
+[ 2023-08-18 21:36:13,905 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-18 21:36:14,955 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-18 21:36:15,022 ] Disconnected from gameserver
+[ 2023-08-18 21:36:15,178 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-18 21:36:15,181 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-18 21:36:15,193 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-18 21:36:16,139 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-18 21:36:26,922 ] Retrying to obtain clipboard.
+[ 2023-08-18 21:37:15,855 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-18 21:37:15,923 ] Disconnected from gameserver
+[ 2023-08-18 21:37:15,983 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-18 22:14:39,296 ] Using spritesheet cache size of 910
+[ 2023-08-18 22:14:40,950 ] Asset loading complete
+[ 2023-08-18 22:14:49,162 ] News query failed: "Unrecognized event news."
+[ 2023-08-18 22:14:50,214 ] BattlEye: "Initialized (v1.249)"
+[ 2023-08-18 22:14:50,214 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-08-18 22:14:50,214 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-08-18 22:14:50,214 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-08-18 22:14:50,214 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-08-18 22:14:50,281 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-18 22:14:50,288 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-18 22:14:50,301 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-18 22:14:51,328 ] News query failed: "Unrecognized event news."
+[ 2023-08-18 22:44:47,282 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-18 22:44:47,373 ] Disconnected from gameserver
+[ 2023-08-18 22:46:25,568 ] News query failed: "Unrecognized event news."
+[ 2023-08-18 22:46:25,946 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-18 22:46:25,949 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-18 22:46:25,960 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-18 22:46:26,901 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-18 22:46:58,665 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-18 22:46:58,741 ] Disconnected from gameserver
+[ 2023-08-19 10:33:26,385 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:33:27,030 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 10:33:27,033 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:33:27,985 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:33:31,167 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "Connection refused" )
+[ 2023-08-19 10:33:32,168 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:33:36,267 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "Connection refused" )
+[ 2023-08-19 10:33:36,292 ] Disconnected from gameserver
+[ 2023-08-19 10:33:37,562 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 10:33:37,567 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:33:38,501 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:33:41,668 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "Connection refused" )
+[ 2023-08-19 10:33:42,667 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:33:46,767 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "Connection refused" )
+[ 2023-08-19 10:33:46,774 ] Disconnected from gameserver
+[ 2023-08-19 10:33:48,030 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 10:33:48,036 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:33:48,984 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:33:52,168 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "Connection refused" )
+[ 2023-08-19 10:33:53,168 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:33:54,409 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:33:55,070 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 10:33:55,072 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:33:56,036 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:33:56,856 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:33:58,135 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:33:59,772 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:34:00,587 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 10:34:00,589 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:34:00,601 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:34:01,553 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:41:16,003 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:41:16,820 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 10:41:16,890 ] Disconnected from gameserver
+[ 2023-08-19 10:41:17,051 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testerman" )
+[ 2023-08-19 10:41:17,055 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:41:17,061 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:41:18,020 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:48:18,388 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:48:19,372 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 10:48:19,459 ] Disconnected from gameserver
+[ 2023-08-19 10:48:19,620 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 10:48:19,624 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:48:19,637 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:48:20,555 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:54:08,521 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 10:54:08,604 ] Disconnected from gameserver
+[ 2023-08-19 10:54:50,989 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:54:51,591 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 10:54:51,594 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:54:52,106 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:54:52,524 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:55:22,260 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:55:23,075 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 10:55:23,141 ] Disconnected from gameserver
+[ 2023-08-19 10:55:23,299 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testerman" )
+[ 2023-08-19 10:55:23,304 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:55:23,315 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:55:24,244 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:56:18,077 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 10:56:18,146 ] Disconnected from gameserver
+[ 2023-08-19 10:56:18,186 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:56:19,632 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 10:56:19,637 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:56:19,648 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 10:56:20,593 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 10:56:22,222 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 10:56:22,291 ] Disconnected from gameserver
+[ 2023-08-19 11:10:51,072 ] QWindowsWindow::setGeometry: Unable to set geometry 1920x1080+0+0 (frame: 1936x1119-8-31) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY4". Resulting geometry: 1920x1061+0+0 (frame: 1936x1100-8-31) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
+[ 2023-08-19 11:10:51,081 ] Using spritesheet cache size of 910
+[ 2023-08-19 11:10:56,248 ] Asset loading complete
+[ 2023-08-19 11:11:02,056 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 11:11:03,610 ] BattlEye: "Initialized (v1.249)"
+[ 2023-08-19 11:11:03,611 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-08-19 11:11:03,611 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-08-19 11:11:03,611 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-08-19 11:11:03,611 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-08-19 11:11:03,676 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testerman" )
+[ 2023-08-19 11:11:03,682 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 11:11:03,694 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 11:11:04,672 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 11:14:02,721 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 11:14:02,791 ] Disconnected from gameserver
+[ 2023-08-19 11:14:03,444 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 11:18:38,049 ] QWindowsWindow::setGeometry: Unable to set geometry 1920x1080+0+0 (frame: 1936x1119-8-31) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY4". Resulting geometry: 1920x1061+0+0 (frame: 1936x1100-8-31) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
+[ 2023-08-19 11:18:38,053 ] Using spritesheet cache size of 910
+[ 2023-08-19 11:18:39,212 ] Asset loading complete
+[ 2023-08-19 11:19:06,961 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 11:19:08,548 ] BattlEye: "Initialized (v1.249)"
+[ 2023-08-19 11:19:08,548 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-08-19 11:19:08,548 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-08-19 11:19:08,548 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-08-19 11:19:08,548 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-08-19 11:19:08,623 ] Request connection to gameserver  "tcp://26.142.23.44:7172"  (unprotected:  "tcp://26.142.23.44:7172" )  requested (Charakter "Testerman" )
+[ 2023-08-19 11:19:08,630 ] Request connection to gameserver  "tcp://26.142.23.44:7172" "Fazendo-Tibia"
+[ 2023-08-19 11:19:08,643 ] Connected to gameserver  "tcp://26.142.23.44:7172" "Fazendo-Tibia"
+[ 2023-08-19 11:19:09,621 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 11:21:11,364 ] Connection to gameserver  "tcp://26.142.23.44:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 11:21:11,436 ] Disconnected from gameserver
+[ 2023-08-19 11:21:11,855 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 11:44:10,225 ] QWindowsWindow::setGeometry: Unable to set geometry 1920x1080+0+0 (frame: 1936x1119-8-31) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY4". Resulting geometry: 1920x1061+0+0 (frame: 1936x1100-8-31) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
+[ 2023-08-19 11:44:10,233 ] Using spritesheet cache size of 910
+[ 2023-08-19 11:44:14,783 ] Asset loading complete
+[ 2023-08-19 11:44:40,606 ] BattlEye: "Initialized (v1.249)"
+[ 2023-08-19 11:44:40,606 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-08-19 11:44:40,606 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-08-19 11:44:40,606 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-08-19 11:44:40,606 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-08-19 11:44:40,695 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 11:44:40,703 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 11:44:40,705 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 11:44:43,698 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 11:44:44,779 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "Connection refused" )
+[ 2023-08-19 11:44:45,780 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 11:44:49,879 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "Connection refused" )
+[ 2023-08-19 11:44:49,887 ] Disconnected from gameserver
+[ 2023-08-19 11:44:51,177 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 11:44:51,179 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 11:44:54,203 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 11:44:54,752 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 11:46:00,428 ] QWindowsWindow::setGeometry: Unable to set geometry 1920x1080+0+0 (frame: 1936x1119-8-31) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY4". Resulting geometry: 1920x1061+0+0 (frame: 1936x1100-8-31) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
+[ 2023-08-19 11:46:00,435 ] Using spritesheet cache size of 910
+[ 2023-08-19 11:46:02,467 ] Asset loading complete
+[ 2023-08-19 11:46:05,132 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 11:46:06,451 ] BattlEye: "Initialized (v1.249)"
+[ 2023-08-19 11:46:06,451 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-08-19 11:46:06,451 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-08-19 11:46:06,451 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-08-19 11:46:06,451 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-08-19 11:46:06,538 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 11:46:06,546 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 11:46:06,556 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 11:46:07,527 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 11:51:10,296 ] Retrying to obtain clipboard.
+[ 2023-08-19 11:51:31,103 ] Retrying to obtain clipboard.
+[ 2023-08-19 11:55:21,574 ] Retrying to obtain clipboard.
+[ 2023-08-19 11:55:34,929 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 11:55:35,011 ] Disconnected from gameserver
+[ 2023-08-19 11:55:35,114 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 11:55:38,887 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 11:55:38,976 ] Disconnected from gameserver
+[ 2023-08-19 11:55:39,261 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 11:55:39,980 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 11:55:39,984 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 11:55:39,996 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 11:55:40,929 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 11:55:44,588 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 11:55:44,657 ] Disconnected from gameserver
+[ 2023-08-19 11:55:44,714 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 11:56:46,419 ] QWindowsWindow::setGeometry: Unable to set geometry 800x600+709+167 (frame: 816x639+701+136) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY4". Resulting geometry: 1020x650+709+167 (frame: 1036x689+701+136) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
+[ 2023-08-19 11:56:46,430 ] Using spritesheet cache size of 910
+[ 2023-08-19 11:56:47,535 ] Asset loading complete
+[ 2023-08-19 11:56:58,886 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 11:57:00,662 ] BattlEye: "Initialized (v1.249)"
+[ 2023-08-19 11:57:00,662 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-08-19 11:57:00,662 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-08-19 11:57:00,662 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-08-19 11:57:00,662 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-08-19 11:57:00,728 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 11:57:00,737 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 11:57:00,748 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 11:57:01,724 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 12:13:27,811 ] QWindowsWindow::setGeometry: Unable to set geometry 1920x1080+0+0 (frame: 1936x1119-8-31) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY4". Resulting geometry: 1920x1061+0+0 (frame: 1936x1100-8-31) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
+[ 2023-08-19 12:25:34,517 ] QWindowsWindow::setGeometry: Unable to set geometry 1920x1080+0+0 (frame: 1936x1119-8-31) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY4". Resulting geometry: 1920x1061+0+0 (frame: 1936x1100-8-31) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
+[ 2023-08-19 12:35:31,136 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 12:35:31,205 ] Disconnected from gameserver
+[ 2023-08-19 12:35:31,547 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 12:35:36,836 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 12:35:36,840 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 12:35:36,851 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 12:35:37,772 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 12:35:51,538 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 12:35:51,606 ] Disconnected from gameserver
+[ 2023-08-19 12:36:14,870 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 12:36:16,106 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 12:36:16,110 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 12:36:17,037 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 12:36:20,186 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "Connection refused" )
+[ 2023-08-19 12:36:21,187 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 12:36:25,337 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "Connection refused" )
+[ 2023-08-19 12:36:25,342 ] Disconnected from gameserver
+[ 2023-08-19 12:36:26,522 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 12:36:26,536 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 12:36:27,460 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 12:36:28,577 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 12:36:28,586 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 12:36:28,590 ] Disconnected from gameserver
+[ 2023-08-19 12:36:29,760 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 12:36:29,762 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 12:36:29,773 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 12:36:29,786 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 12:36:29,793 ] Disconnected from gameserver
+[ 2023-08-19 12:36:30,712 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 12:36:34,248 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 12:36:34,799 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 12:36:34,801 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 12:36:34,813 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 12:36:34,836 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 12:36:34,844 ] Disconnected from gameserver
+[ 2023-08-19 12:36:35,701 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 12:36:35,756 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 12:36:37,196 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 12:36:37,198 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 12:36:37,211 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"
+[ 2023-08-19 12:36:37,236 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Fazendo-Tibia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 12:36:37,256 ] Disconnected from gameserver
+[ 2023-08-19 12:36:37,781 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 12:36:38,148 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 12:36:45,170 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 12:36:45,759 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 12:36:45,762 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 12:36:45,776 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 12:36:46,712 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 12:38:15,337 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 12:38:15,420 ] Disconnected from gameserver
+[ 2023-08-19 12:43:01,367 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 12:44:47,371 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 12:44:48,187 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 12:44:48,190 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 12:44:48,202 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 12:44:49,123 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 12:44:51,367 ] QWindowsWindow::setGeometry: Unable to set geometry 1920x1080+0+0 (frame: 1936x1119-8-31) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY4". Resulting geometry: 1920x1061+0+0 (frame: 1936x1100-8-31) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
+[ 2023-08-19 13:09:16,036 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 13:09:16,105 ] Disconnected from gameserver
+[ 2023-08-19 13:09:16,161 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 13:41:28,231 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 13:41:29,454 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 13:41:29,458 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 13:41:30,398 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 13:41:33,537 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "Connection refused" )
+[ 2023-08-19 13:41:34,586 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 13:41:38,686 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "Connection refused" )
+[ 2023-08-19 13:41:38,691 ] Disconnected from gameserver
+[ 2023-08-19 13:41:39,852 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 13:41:39,854 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 13:41:40,802 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 13:41:43,936 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "Connection refused" )
+[ 2023-08-19 13:41:44,936 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 13:41:49,036 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "Connection refused" )
+[ 2023-08-19 13:41:49,042 ] Disconnected from gameserver
+[ 2023-08-19 13:41:50,226 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 13:41:50,227 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 13:41:51,161 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 13:41:54,336 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "Connection refused" )
+[ 2023-08-19 13:41:55,337 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 13:41:59,438 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "Connection refused" )
+[ 2023-08-19 13:41:59,443 ] Disconnected from gameserver
+[ 2023-08-19 13:42:00,680 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 13:42:00,685 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 13:42:00,696 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 13:42:01,584 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 13:56:43,086 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 13:56:43,158 ] Disconnected from gameserver
+[ 2023-08-19 13:59:19,816 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 13:59:21,003 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 13:59:21,007 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 13:59:21,020 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 13:59:21,943 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 13:59:42,558 ] Using spritesheet cache size of 910
+[ 2023-08-19 13:59:44,632 ] Asset loading complete
+[ 2023-08-19 13:59:52,491 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 13:59:53,809 ] BattlEye: "Initialized (v1.249)"
+[ 2023-08-19 13:59:53,810 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-08-19 13:59:53,810 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-08-19 13:59:53,810 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-08-19 13:59:53,810 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-08-19 13:59:53,904 ] Request connection to gameserver  "tcp://26.142.23.44:7172"  (unprotected:  "tcp://26.142.23.44:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 13:59:53,912 ] Request connection to gameserver  "tcp://26.142.23.44:7172" "Serverzin Floricapao"
+[ 2023-08-19 13:59:53,926 ] Connected to gameserver  "tcp://26.142.23.44:7172" "Serverzin Floricapao"
+[ 2023-08-19 13:59:54,888 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 14:14:32,252 ] Retrying to obtain clipboard.
+[ 2023-08-19 14:18:47,466 ] Retrying to obtain clipboard.
+[ 2023-08-19 14:19:27,280 ] Retrying to obtain clipboard.
+[ 2023-08-19 14:28:58,666 ] Connection to gameserver  "tcp://26.142.23.44:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 14:28:58,794 ] Disconnected from gameserver
+[ 2023-08-19 14:28:59,190 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 14:34:23,568 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342239134 found"
+[ 2023-08-19 14:42:24,436 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 14:42:24,602 ] Disconnected from gameserver
+[ 2023-08-19 14:42:24,671 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 14:42:56,051 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 14:42:56,979 ] Request connection to gameserver  "tcp://26.142.23.44:7172"  (unprotected:  "tcp://26.142.23.44:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 14:42:56,984 ] Request connection to gameserver  "tcp://26.142.23.44:7172" "Serverzin Floricapao"
+[ 2023-08-19 14:42:56,996 ] Connected to gameserver  "tcp://26.142.23.44:7172" "Serverzin Floricapao"
+[ 2023-08-19 14:42:57,929 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 14:47:32,550 ] QTextCursor::setPosition: Position '59' out of range
+[ 2023-08-19 14:48:35,588 ] Connection to gameserver  "tcp://26.142.23.44:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 14:48:35,654 ] Disconnected from gameserver
+[ 2023-08-19 14:48:35,703 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 14:49:00,882 ] Using spritesheet cache size of 910
+[ 2023-08-19 14:49:02,623 ] Asset loading complete
+[ 2023-08-19 14:49:22,730 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 14:49:23,845 ] BattlEye: "Initialized (v1.249)"
+[ 2023-08-19 14:49:23,845 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-08-19 14:49:23,845 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-08-19 14:49:23,845 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-08-19 14:49:23,845 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-08-19 14:49:23,916 ] Request connection to gameserver  "tcp://26.142.23.44:7172"  (unprotected:  "tcp://26.142.23.44:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 14:49:23,924 ] Request connection to gameserver  "tcp://26.142.23.44:7172" "Serverzin Floricapao"
+[ 2023-08-19 14:49:23,935 ] Connected to gameserver  "tcp://26.142.23.44:7172" "Serverzin Floricapao"
+[ 2023-08-19 14:49:24,908 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 14:50:01,780 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342239256 found"
+[ 2023-08-19 14:52:35,919 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435467 found"
+[ 2023-08-19 14:54:36,607 ] Connection to gameserver  "tcp://26.142.23.44:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 14:54:36,698 ] Disconnected from gameserver
+[ 2023-08-19 14:54:37,033 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 14:54:48,129 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 14:54:49,275 ] Request connection to gameserver  "tcp://26.142.23.44:7172"  (unprotected:  "tcp://26.142.23.44:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 14:54:49,279 ] Request connection to gameserver  "tcp://26.142.23.44:7172" "Serverzin Floricapao"
+[ 2023-08-19 14:54:49,290 ] Connected to gameserver  "tcp://26.142.23.44:7172" "Serverzin Floricapao"
+[ 2023-08-19 14:54:50,227 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 14:54:53,509 ] Connection to gameserver  "tcp://26.142.23.44:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 14:54:53,576 ] Disconnected from gameserver
+[ 2023-08-19 14:54:53,627 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 15:01:55,140 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 15:01:57,024 ] Request connection to gameserver  "tcp://26.142.23.44:7172"  (unprotected:  "tcp://26.142.23.44:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 15:01:57,028 ] Request connection to gameserver  "tcp://26.142.23.44:7172" "Serverzin Floricapao"
+[ 2023-08-19 15:01:57,040 ] Connected to gameserver  "tcp://26.142.23.44:7172" "Serverzin Floricapao"
+[ 2023-08-19 15:01:57,976 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 15:02:43,616 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342239161 found"
+[ 2023-08-19 15:03:00,096 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342239081 found"
+[ 2023-08-19 15:06:23,037 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342238943 found"
+[ 2023-08-19 15:11:23,012 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 15:13:36,497 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342238893 found"
+[ 2023-08-19 15:13:38,810 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342238983 found"
+[ 2023-08-19 15:28:00,944 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193708 found"
+[ 2023-08-19 15:28:32,440 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193527 found"
+[ 2023-08-19 15:30:27,049 ] Using spritesheet cache size of 910
+[ 2023-08-19 15:30:29,158 ] Asset loading complete
+[ 2023-08-19 15:31:40,125 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 15:31:41,144 ] BattlEye: "Initialized (v1.249)"
+[ 2023-08-19 15:31:41,144 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-08-19 15:31:41,144 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-08-19 15:31:41,144 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-08-19 15:31:41,144 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-08-19 15:31:41,222 ] Request connection to gameserver  "tcp://26.142.23.44:7172"  (unprotected:  "tcp://26.142.23.44:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 15:31:41,233 ] Request connection to gameserver  "tcp://26.142.23.44:7172" "Serverzin Floricapao"
+[ 2023-08-19 15:31:41,245 ] Connected to gameserver  "tcp://26.142.23.44:7172" "Serverzin Floricapao"
+[ 2023-08-19 15:31:42,206 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 15:31:53,679 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435468 found"
+[ 2023-08-19 15:39:35,506 ] Connection to gameserver  "tcp://26.142.23.44:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 15:39:35,696 ] Disconnected from gameserver
+[ 2023-08-19 15:39:55,591 ] Connection to gameserver  "tcp://26.142.23.44:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 15:39:55,783 ] Disconnected from gameserver
+[ 2023-08-19 15:40:04,856 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 16:31:14,189 ] Retrying to obtain clipboard.
+[ 2023-08-19 17:27:24,486 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 17:27:26,329 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 17:27:26,338 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 17:27:27,208 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 17:27:30,456 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "Connection refused" )
+[ 2023-08-19 17:27:31,456 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 17:27:35,555 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "Connection refused" )
+[ 2023-08-19 17:27:35,563 ] Disconnected from gameserver
+[ 2023-08-19 17:27:36,749 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 17:27:36,752 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 17:27:37,693 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 17:27:39,318 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 17:44:41,056 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 17:44:41,146 ] Disconnected from gameserver
+[ 2023-08-19 17:45:16,224 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 17:45:28,809 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 17:45:30,539 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 17:45:30,545 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 17:45:30,556 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 17:45:31,446 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 18:23:21,507 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 18:23:21,586 ] Disconnected from gameserver
+[ 2023-08-19 18:35:45,997 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 18:35:51,437 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 18:35:53,222 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testerman" )
+[ 2023-08-19 18:35:53,226 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 18:35:53,238 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 18:35:54,135 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 18:36:07,356 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 18:36:07,426 ] Disconnected from gameserver
+[ 2023-08-19 18:36:07,478 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 18:36:45,136 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 18:36:46,797 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testerman" )
+[ 2023-08-19 18:36:46,798 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 18:36:47,740 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 18:36:50,905 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "Connection refused" )
+[ 2023-08-19 18:36:51,906 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 18:36:56,015 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 18:46:17,164 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 18:46:18,505 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 18:46:18,601 ] Disconnected from gameserver
+[ 2023-08-19 18:46:18,782 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 18:46:18,787 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 18:46:18,797 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 18:46:19,725 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:09:12,155 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 19:09:12,227 ] Disconnected from gameserver
+[ 2023-08-19 19:09:12,281 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:09:14,258 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 19:09:14,261 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:09:14,273 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:09:15,208 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:09:17,207 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 19:09:17,279 ] Disconnected from gameserver
+[ 2023-08-19 19:27:33,126 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:27:34,069 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 19:27:34,072 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:27:34,073 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:27:35,009 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:27:38,979 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342219315 found"
+[ 2023-08-19 19:28:47,956 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 19:28:48,023 ] Disconnected from gameserver
+[ 2023-08-19 19:28:48,098 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:29:00,215 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:29:01,237 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testezin" )
+[ 2023-08-19 19:29:01,241 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:29:01,253 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:29:02,181 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:41:24,407 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 19:41:24,492 ] Disconnected from gameserver
+[ 2023-08-19 19:41:24,561 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:41:28,940 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:41:29,768 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 19:41:29,772 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:41:29,785 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:41:30,709 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:41:30,734 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:41:31,355 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 19:41:31,423 ] Disconnected from gameserver
+[ 2023-08-19 19:41:31,568 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testerman" )
+[ 2023-08-19 19:41:31,574 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:41:31,587 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:41:32,505 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:52:12,855 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 19:52:12,965 ] Disconnected from gameserver
+[ 2023-08-19 19:52:13,031 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:52:13,888 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-08-19 19:52:13,893 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:52:13,906 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:52:14,835 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:52:45,404 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:52:46,256 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 19:52:46,325 ] Disconnected from gameserver
+[ 2023-08-19 19:52:46,483 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testerman" )
+[ 2023-08-19 19:52:46,487 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:52:46,501 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:52:47,428 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:52:55,806 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 19:52:55,913 ] Disconnected from gameserver
+[ 2023-08-19 19:53:00,383 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:53:01,538 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testerman" )
+[ 2023-08-19 19:53:01,545 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:53:02,491 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:53:05,655 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "Connection refused" )
+[ 2023-08-19 19:53:06,705 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:53:10,805 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "Connection refused" )
+[ 2023-08-19 19:53:10,810 ] Disconnected from gameserver
+[ 2023-08-19 19:53:11,999 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testerman" )
+[ 2023-08-19 19:53:11,999 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:53:12,944 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:53:16,106 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "Connection refused" )
+[ 2023-08-19 19:53:17,157 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:53:21,255 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "Connection refused" )
+[ 2023-08-19 19:53:21,259 ] Disconnected from gameserver
+[ 2023-08-19 19:53:22,465 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testerman" )
+[ 2023-08-19 19:53:22,469 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:53:23,397 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:53:26,556 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "Connection refused" )
+[ 2023-08-19 19:53:27,556 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:53:31,656 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "Connection refused" )
+[ 2023-08-19 19:53:31,661 ] Disconnected from gameserver
+[ 2023-08-19 19:53:32,847 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testerman" )
+[ 2023-08-19 19:53:32,850 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:53:33,787 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 19:53:36,955 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "Connection refused" )
+[ 2023-08-19 19:53:37,955 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:53:37,967 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 19:53:45,741 ] Retrying to obtain clipboard.
+[ 2023-08-19 19:53:59,026 ] Retrying to obtain clipboard.
+[ 2023-08-19 19:54:20,647 ] Retrying to obtain clipboard.
+[ 2023-08-19 19:54:21,503 ] Retrying to obtain clipboard.
+[ 2023-08-19 19:59:30,083 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342239166 found"
+[ 2023-08-19 19:59:35,527 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342239166 found"
+[ 2023-08-19 20:03:51,069 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256734 found"
+[ 2023-08-19 20:09:02,808 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 20:09:02,963 ] Disconnected from gameserver
+[ 2023-08-19 20:09:03,025 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 20:09:13,013 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 20:09:14,257 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 20:09:14,262 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 20:09:14,274 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 20:09:15,194 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-08-19 20:27:09,456 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 20:27:09,547 ] Disconnected from gameserver
+[ 2023-08-19 21:06:48,754 ] Using spritesheet cache size of 910
+[ 2023-08-19 21:06:54,099 ] Asset loading complete
+[ 2023-08-19 21:08:49,117 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 21:08:51,818 ] BattlEye: "Initialized (v1.249)"
+[ 2023-08-19 21:08:51,818 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-08-19 21:08:51,819 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-08-19 21:08:51,819 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-08-19 21:08:51,819 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-08-19 21:08:51,897 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lady Broken" )
+[ 2023-08-19 21:08:51,905 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 21:08:51,918 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 21:08:52,879 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 21:11:26,946 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 21:11:27,046 ] Disconnected from gameserver
+[ 2023-08-19 21:34:10,793 ] Using spritesheet cache size of 910
+[ 2023-08-19 21:34:14,316 ] Asset loading complete
+[ 2023-08-19 21:34:18,939 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 21:34:20,396 ] BattlEye: "Initialized (v1.249)"
+[ 2023-08-19 21:34:20,396 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-08-19 21:34:20,396 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-08-19 21:34:20,396 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-08-19 21:34:20,396 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-08-19 21:34:20,582 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testerman" )
+[ 2023-08-19 21:34:20,586 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 21:34:20,607 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 21:34:21,512 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 21:35:35,746 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 21:35:35,831 ] Disconnected from gameserver
+[ 2023-08-19 22:04:08,419 ] Using spritesheet cache size of 910
+[ 2023-08-19 22:04:10,489 ] Asset loading complete
+[ 2023-08-19 22:04:12,984 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 22:04:15,918 ] BattlEye: "Initialized (v1.249)"
+[ 2023-08-19 22:04:15,918 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-08-19 22:04:15,918 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-08-19 22:04:15,918 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-08-19 22:04:15,918 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-08-19 22:04:16,014 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testerman" )
+[ 2023-08-19 22:04:16,025 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 22:04:16,036 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"
+[ 2023-08-19 22:04:16,976 ] News query failed: "Unrecognized event news."
+[ 2023-08-19 22:05:22,436 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Serverzin Floricapao"  was disconnected ( "The remote host closed the connection" )
+[ 2023-08-19 22:05:22,527 ] Disconnected from gameserver
+[ 2023-08-19 22:05:22,915 ] News query failed: "Unrecognized event news."

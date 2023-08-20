@@ -1,0 +1,16 @@
+{
+    "eventlist": [
+        {
+            "colordark": "#235c00",
+            "colorlight": "#2d7400",
+            "description": "Example Fazendo Tibia description double exp and a half, double loot !chance!, regular spawn and double skill",
+            "displaypriority": 6,
+            "enddate": 1767063600,
+            "isseasonal": false,
+            "name": "Fazendo Tibia Event Exemple",
+            "specialevent": 0,
+            "startdate": 1604372400
+        }
+    ],
+    "lastupdatetimestamp": 1692452018
+}

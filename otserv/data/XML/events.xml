@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event name="Fazendo Tibia Event Exemple" startdate="11/03/2020" enddate="12/30/2025" script="example.lua" >
+		<ingame exprate="100" lootrate="100" spawnrate="100" skillrate="100" />
+		<description description="Example Fazendo Tibia description double exp and a half, double loot !chance!, regular spawn and double skill" />
+		<colors colordark="#235c00" colorlight="#2d7400" />
+		<details displaypriority="6" isseasonal="0" specialevent="0" />
+	</event>
+</events>
