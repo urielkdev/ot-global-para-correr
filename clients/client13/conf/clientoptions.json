@@ -9,17 +9,16 @@
     },
     "clientOptionsVersion": 6,
     "clientWindowOptions": {
-        "clientWindowHeight": 650,
+        "clientWindowHeight": 1061,
         "clientWindowIsBorderless": true,
-        "clientWindowIsMaximized": true,
-        "clientWindowPositionX": 1,
-        "clientWindowPositionY": 31,
+        "clientWindowIsMaximized": false,
+        "clientWindowPositionX": 0,
+        "clientWindowPositionY": 0,
         "clientWindowScreenName": "\\\\.\\DISPLAY4",
-        "clientWindowWidth": 1020
+        "clientWindowWidth": 1920
     },
     "controlButtonsOptions": {
         "disabledButtons": [
-            "skillsWidget",
             "questDialog",
             "questTrackerWidget",
             "unjustifiedPoinsWidget",
@@ -44,7 +43,8 @@
             "spellListWidget",
             "cyclopediaDialog",
             "exaltationForgeDialog",
-            "skillWheelDialog"
+            "skillWheelDialog",
+            "skillsWidget"
         ]
     },
     "hotkeyOptions": {
@@ -784,18 +784,18 @@
                     "mappings": [
                         {
                             "actionBar": 1,
-                            "actionButton": 8,
-                            "actionsetting": {
-                                "useObject": 3161,
-                                "useType": "SelectUseTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 1,
                             "actionButton": 32,
                             "actionsetting": {
                                 "chatText": "exevo gran mas frigo",
                                 "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 8,
+                            "actionsetting": {
+                                "useObject": 3161,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -808,18 +808,18 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 18,
-                            "actionsetting": {
-                                "useObject": 3156,
-                                "useType": "SelectUseTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 1,
                             "actionButton": 10,
                             "actionsetting": {
                                 "chatText": "exori flam",
                                 "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 18,
+                            "actionsetting": {
+                                "useObject": 3156,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -920,28 +920,75 @@
                             }
                         },
                         {
-                            "actionBar": 2,
-                            "actionButton": 5,
+                            "actionBar": 1,
+                            "actionButton": 29,
                             "actionsetting": {
-                                "useEquipSmartMode": false,
-                                "useObject": 3081,
-                                "useType": "Equip"
+                                "chatText": "/i soulhexer",
+                                "sendAutomatically": true
                             }
                         },
                         {
-                            "actionBar": 2,
-                            "actionButton": 12,
+                            "actionBar": 1,
+                            "actionButton": 30,
+                            "actionsetting": {
+                                "chatText": "/i exalted core, 100",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 20,
                             "actionsetting": {
                                 "chatText": "!bless",
                                 "sendAutomatically": true
                             }
                         },
                         {
+                            "actionBar": 1,
+                            "actionButton": 35,
+                            "actionsetting": {
+                                "useObject": 3192,
+                                "useType": "UseOnYourself"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 42,
+                            "actionsetting": {
+                                "chatText": "/m Energetic Book",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 43,
+                            "actionsetting": {
+                                "chatText": "/m Energuardian Of Tales",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 40,
+                            "actionsetting": {
+                                "chatText": "/r",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 24,
+                            "actionsetting": {
+                                "chatText": "exiva \"Eternalzin",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
                             "actionBar": 2,
-                            "actionButton": 4,
+                            "actionButton": 5,
                             "actionsetting": {
                                 "useEquipSmartMode": false,
-                                "useObject": 3048,
+                                "useObject": 3081,
                                 "useType": "Equip"
                             }
                         },
@@ -955,6 +1002,23 @@
                         },
                         {
                             "actionBar": 2,
+                            "actionButton": 4,
+                            "actionsetting": {
+                                "useEquipSmartMode": false,
+                                "useObject": 3048,
+                                "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 12,
+                            "actionsetting": {
+                                "chatText": "!bless",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 2,
                             "actionButton": 1,
                             "actionsetting": {
                                 "useObject": 23373,
@@ -963,10 +1027,26 @@
                         },
                         {
                             "actionBar": 2,
+                            "actionButton": 33,
+                            "actionsetting": {
+                                "chatText": "utevo gran res dru",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 2,
                             "actionButton": 8,
                             "actionsetting": {
                                 "useObject": 35563,
                                 "useType": "Use"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 31,
+                            "actionsetting": {
+                                "useObject": 3148,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -1028,14 +1108,14 @@
                     {
                         "actionsetting": {
                             "useObject": 3165,
-                            "useType": "UseOnYourself"
+                            "useType": "UseOnTarget"
                         },
                         "keysequence": "N"
                     },
                     {
                         "actionsetting": {
                             "useObject": 3165,
-                            "useType": "UseOnYourself"
+                            "useType": "UseOnTarget"
                         },
                         "keysequence": "7"
                     },
@@ -1188,6 +1268,12 @@
                             "action": "TriggerActionButton_2.5"
                         },
                         "keysequence": "9"
+                    },
+                    {
+                        "actionsetting": {
+                            "action": "TriggerActionButton_2.8"
+                        },
+                        "keysequence": "R"
                     },
                     {
                         "actionsetting": {
@@ -1485,9 +1571,15 @@
                     },
                     {
                         "actionsetting": {
-                            "action": "TriggerActionButton_2.8"
+                            "action": "TriggerActionButton_1.35"
                         },
-                        "keysequence": "R"
+                        "keysequence": "Num+-"
+                    },
+                    {
+                        "actionsetting": {
+                            "action": "TriggerActionButton_2.31"
+                        },
+                        "keysequence": "Alt+1"
                     }
                 ],
                 "chatOn": [
@@ -1810,17 +1902,17 @@
                     "mappings": [
                         {
                             "actionBar": 1,
-                            "actionButton": 8,
+                            "actionButton": 32,
                             "actionsetting": {
-                                "chatText": "exori hur",
+                                "chatText": "exevo gran mas frigo",
                                 "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 32,
+                            "actionButton": 8,
                             "actionsetting": {
-                                "chatText": "exevo gran mas frigo",
+                                "chatText": "exori hur",
                                 "sendAutomatically": true
                             }
                         },
@@ -1850,18 +1942,18 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 14,
-                            "actionsetting": {
-                                "useObject": 3155,
-                                "useType": "UseOnTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 1,
                             "actionButton": 22,
                             "actionsetting": {
                                 "chatText": "adevo grav vita",
                                 "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 14,
+                            "actionsetting": {
+                                "useObject": 3155,
+                                "useType": "UseOnTarget"
                             }
                         },
                         {
@@ -1940,14 +2032,6 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 20,
-                            "actionsetting": {
-                                "useObject": 3165,
-                                "useType": "UseOnTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 2,
                             "actionButton": 4,
                             "actionsetting": {
                                 "useEquipSmartMode": false,
@@ -1957,10 +2041,10 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 1,
+                            "actionButton": 20,
                             "actionsetting": {
-                                "useObject": 23373,
-                                "useType": "SelectUseTarget"
+                                "useObject": 3165,
+                                "useType": "UseOnTarget"
                             }
                         },
                         {
@@ -1973,10 +2057,10 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 8,
+                            "actionButton": 1,
                             "actionsetting": {
-                                "useObject": 35563,
-                                "useType": "Use"
+                                "useObject": 23373,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -1985,6 +2069,14 @@
                             "actionsetting": {
                                 "chatText": "exori gran",
                                 "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 8,
+                            "actionsetting": {
+                                "useObject": 35563,
+                                "useType": "Use"
                             }
                         },
                         {
@@ -2900,7 +2992,7 @@
         "charTradePaymentRemindAgain": 0,
         "characterSelectionShowHidden": true,
         "characterSelectionShowOutfits": true,
-        "characterSelectionSortAscendingOrder": true,
+        "characterSelectionSortAscendingOrder": false,
         "characterSelectionSortColumn": 1,
         "colorizeLootStyle": 1,
         "combatShowFrames": true,

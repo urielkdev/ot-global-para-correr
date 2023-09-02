@@ -51,10 +51,6 @@
         "sortOrder": "ascending"
     },
     "containersOptions": {
-        "0": {
-            "contentHeight": 147,
-            "contentMaximized": true
-        },
         "1": {
             "contentHeight": 148,
             "contentMaximized": true
@@ -121,7 +117,7 @@
         ]
     },
     "sidebarPanelsOptions": {
-        "chaseModeEnabled": true,
+        "chaseModeEnabled": false,
         "combatMode": 3,
         "controlButtonsVisible": true,
         "minimapZoomLevel": 100,
@@ -136,11 +132,11 @@
                     "type": "battleList"
                 },
                 {
-                    "instance": 0,
+                    "instance": 1,
                     "type": "container"
                 },
                 {
-                    "instance": 1,
+                    "instance": 0,
                     "type": "container"
                 }
             ]

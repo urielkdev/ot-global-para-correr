@@ -8,13 +8,14 @@
             "battleListFilters": [
                 "hidePlayerSummons",
                 "hideMonsters",
-                "hideNPCs"
+                "hideNPCs",
+                "hidePartyMembers"
             ],
             "battleListSortOrder": [
                 "byAgeAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 492,
+            "contentHeight": 220,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": true,
@@ -55,19 +56,19 @@
     },
     "containersOptions": {
         "0": {
-            "contentHeight": 171,
+            "contentHeight": 232,
             "contentMaximized": true
         },
         "1": {
             "contentHeight": 41,
             "contentMaximized": true
         },
-        "2": {
-            "contentHeight": 232,
+        "3": {
+            "contentHeight": 195,
             "contentMaximized": true
         },
-        "6": {
-            "contentHeight": 195,
+        "4": {
+            "contentHeight": 232,
             "contentMaximized": true
         }
     },
@@ -139,7 +140,7 @@
         "chaseModeEnabled": false,
         "combatMode": 3,
         "controlButtonsVisible": true,
-        "minimapZoomLevel": 0,
+        "minimapZoomLevel": 100,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -151,11 +152,11 @@
                     "type": "container"
                 },
                 {
-                    "instance": 0,
+                    "instance": 4,
                     "type": "container"
                 },
                 {
-                    "instance": 2,
+                    "instance": 0,
                     "type": "container"
                 }
             ],
@@ -168,7 +169,7 @@
                     "type": "battleList"
                 },
                 {
-                    "instance": 6,
+                    "instance": 3,
                     "type": "container"
                 }
             ],
@@ -180,7 +181,7 @@
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 242,
+        "contentHeight": 376,
         "contentMaximized": true,
         "invisibleProgressBars": [
         ]

@@ -6,7 +6,7 @@ developmentMode = false
 
 -- Combat settings
 -- NOTE: valid values for worldType are: "pvp", "no-pvp" and "pvp-enforced"
-worldType = "pvp"
+worldType = "pvp-enforced"
 hotkeyAimbotEnabled = true
 protectionLevel = 7
 pzLocked = 60 * 1000
@@ -17,8 +17,8 @@ removeWeaponCharges = false
 timeToDecreaseFrags = 24 * 60 * 60 * 1000
 whiteSkullTime = 15 * 60 * 1000
 stairJumpExhaustion = 2 * 1000
-experienceByKillingPlayers = false
-expFromPlayersLevelRange = 75
+experienceByKillingPlayers = true
+expFromPlayersLevelRange = 100
 dayKillsToRedSkull = 300
 weekKillsToRedSkull = 500
 monthKillsToRedSkull = 1000
@@ -33,7 +33,7 @@ cleanProtectionZones = false
 -- NOTE: allowOldProtocol can allow login on 10x protocol. (11.00)
 -- NOTE: maxPlayers set to 0 means no limit
 -- NOTE: MaxPacketsPerSeconds if you change you will be subject to bugs by WPE, keep the default value of 25
-ip = "127.0.0.1"
+ip = "26.142.23.44"
 allowOldProtocol = true
 bindOnlyGlobalAddress = false
 loginProtocolPort = 7171
@@ -372,7 +372,7 @@ rateExerciseTrainingSpeed = rateAttackSpeed
 
 -- Monster rates
 rateMonsterHealth = 1.0
-rateMonsterAttack = 1.5
+rateMonsterAttack = 1.6
 rateMonsterDefense = 1.0
 
 -- Boss rates

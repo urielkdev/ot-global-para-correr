@@ -207,8 +207,8 @@ local potions = {
 	},
 	[23375] = {
 		health = {
-			605,
-			975
+			505,
+			875
 		},
 		vocations = {
 			VOCATION.BASE_ID.KNIGHT

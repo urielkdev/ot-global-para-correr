@@ -8,9 +8,10 @@
             "battleListFilters": [
             ],
             "battleListSortOrder": [
+                "byAgeAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 38,
+            "contentHeight": 277,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": true,
@@ -21,6 +22,7 @@
             "battleListFilters": [
             ],
             "battleListSortOrder": [
+                "byAgeAscending",
                 "byAgeAscending"
             ],
             "contentHeight": 38,
@@ -112,7 +114,7 @@
     },
     "sidebarPanelsOptions": {
         "chaseModeEnabled": true,
-        "combatMode": 2,
+        "combatMode": 3,
         "controlButtonsVisible": true,
         "minimapZoomLevel": 200,
         "minimizeInventory": false
@@ -123,13 +125,22 @@
             [
                 {
                     "instance": 0,
+                    "type": "container"
+                }
+            ],
+            [
+                {
+                    "type": "skills"
+                },
+                {
+                    "instance": 0,
                     "type": "battleList"
                 }
             ]
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 497,
         "contentMaximized": true,
         "invisibleProgressBars": [
         ]
@@ -159,7 +170,7 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 200,
         "contentMaximized": true,
         "hideOfflineVips": false,
         "showGrouped": false,
